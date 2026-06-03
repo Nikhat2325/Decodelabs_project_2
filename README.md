@@ -1,5 +1,7 @@
 # Backend API Development - Student Management API
 
+https://github.com/Nikhat2325/Decodelabs_project_2/blob/82ce726fcbe7846700c2a38eabf8c531c9d59626/Screenshot%202026-06-04%20005136.png
+
 ## Project Overview
 
 This project is a simple Backend API Development project built using Django and Django REST Framework (DRF).
