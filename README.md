@@ -1,6 +1,6 @@
 # Backend API Development - Student Management API
 
-https://github.com/Nikhat2325/Decodelabs_project_2/blob/82ce726fcbe7846700c2a38eabf8c531c9d59626/Screenshot%202026-06-04%20005136.png
+<img width="970" height="658" alt="Screenshot 2026-06-04 005136" src="https://github.com/user-attachments/assets/be41ddf3-137c-4d1e-b06c-b83a0196e332" />
 
 ## Project Overview
 
@@ -135,6 +135,8 @@ Features:
 ---
 
 ### 2. Django REST Framework API
+<img width="1067" height="670" alt="Screenshot 2026-06-04 005407" src="https://github.com/user-attachments/assets/bf429425-917f-44b0-bc22-adf49c488116" />
+
 
 Implemented using:
 
